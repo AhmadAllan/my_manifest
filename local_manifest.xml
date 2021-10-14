@@ -10,6 +10,8 @@
 <project path="device/nokia/B2N" name="android_device_nokia_B2N" remote="bossun" revision="main" />
 
 <project path="kernel/nokia/B2N" name="android_kernel_nokia_B2N" remote="bossun" revision="main" />
+
+<project path="vendor/nokia/B2N" name="android_vendor_nokia_B2N" remote="bossun" revision="main" />
          
                  
 
